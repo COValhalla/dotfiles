@@ -1,0 +1,4 @@
+# Enable history search with arrow keys
+"\e[A": history-search-backward
+"\e[B": history-search-forward
+
